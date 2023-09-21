@@ -104,6 +104,10 @@ Además, puedes emplear etiquetas.
 
 Este es el codigo empleado para hacer la etiqueta multimedia
 
+Link para descargar el archivo completo
+
+https://drive.google.com/file/d/11I2bTH-PMAmkexQ-skTGSfs1HH_jYAGr/view?usp=drive_link
+
 ``` html
 <!DOCTYPE html>
 <html>
