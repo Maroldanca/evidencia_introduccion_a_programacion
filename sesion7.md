@@ -3,8 +3,7 @@
 
 ## Sesión 7 
 
-
-<!-- Su documentación aquí -->
+### Repositorio actual creado
 
 
 

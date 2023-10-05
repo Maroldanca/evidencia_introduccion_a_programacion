@@ -3,7 +3,7 @@
 
 ## Sesión 6
 
-
+## Evaluacion hecha en clase
 
 
 
